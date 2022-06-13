@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/Hzy1S56/IMG-20220609-WA0091.jpg" alt="nz" width="350"/>
 </p>
 
-## QUEEN BIXBY MD WHATSAPP BOT
+## Firefox kaviya KD WHATSAPP BOT
 
 > <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
@@ -74,8 +74,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9471XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["94703817681"]
+global.ownername = ["kaviya"]
 ```
 </details>
 
